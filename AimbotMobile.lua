@@ -10,7 +10,7 @@ local Camera = Workspace.CurrentCamera
 -- ============================================================
 -- GANTI URL LOGO DI SINI
 -- ============================================================
-local LOGO_URL = "https://i.ibb.co.com/TDCKtLvR/04aab61812d34dafe6746eb46a4c4717.jpg""
+local LOGO_URL = "https://i.ibb.co.com/TDCKtLvR/04aab61812d34dafe6746eb46a4c4717.jpg
 
 local Config = {
     Enabled = true,
