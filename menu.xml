@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+  <item id="DEP-01">NET-EXECUTION : 330+ Tools (Network)</item>
+  <item id="DEP-02">WEB-ANNIHILATION : 150+ Tools (SQLi, RCE, Admin, DB Wipeout)</item>
+  <item id="DEP-03">CRYPTO : 600+ Tools (Keyloggers)</item>
+  <item id="DEP-04">SYSTEM : 100+ Tools (WAF/AV Evasion, Log Cleaning)</item>
+  <item id="DEP-05">SOCIAL-WRECKER : 100+ Tools (Social Manipulation)</item>
+</menu>
